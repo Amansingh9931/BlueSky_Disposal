@@ -4,7 +4,7 @@ import { Target, Heart, Users, Award } from "lucide-react";
 
 const our_Mission = () => {
   return (
-    <div className="min-h-screen w-full">
+    <div className="w-full">
       {/* Company Overview  */}
       <section className="relative py-20 px-4 max-w-6xl mx-auto">
         <div className="relative grid md:grid-cols-2 gap-16 items-center">
